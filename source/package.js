@@ -1,0 +1,12 @@
+enyo.depends(
+  	"$lib/layout",
+  	"$lib/onyx",
+  	"$lib/NotificationTheme/package.js",
+  	"Notification.js",
+  	"StockSymbolAutoCompleteInputDecorator.js",
+  	"YahooStockQuote.js",
+  	"YahooChart.js",
+	"RSSItem.js",
+	"YahooRSSFeed.js",
+  	"YahooFinanceTool.js"
+);
